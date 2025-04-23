@@ -6,7 +6,8 @@ I’m passionate about turning numbers into stories ✨ and solving real-world p
 ---
 
 ### 🔧 What I Work With  
-- **Languages**: HTML 🌐, Python 🐍, SQL 🗃️  
+- **Languages**: HTML 🌐, Python 🐍, SQL 🗃️ Javascrpt 🟨.
+
 - **Tools**: Excel 📈, Power BI 📉, SPSS 📋, MySQL 🗄️, VS Code 💻  Git
 
 Currently sharpening my Python skills and learning to build websites from scratch. Watch this space—I’m just getting started! 🌟
