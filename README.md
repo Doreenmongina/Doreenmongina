@@ -1,5 +1,9 @@
+
+
+
+
 # 👋 Hi, I’m Doreen Mong'ina  
-### *Data Analyst | Finance, Economics, and Statistics Specialist* 💼📊
+## *Data Analyst | Finance, Economics, and Statistics Specialist* 💼📊
 
 I’m passionate about turning numbers into stories ✨ and solving real-world problems with data. With a background in finance, economics, and stats, I’m now diving deep into software programming—baby steps, big dreams! 🚀
 
